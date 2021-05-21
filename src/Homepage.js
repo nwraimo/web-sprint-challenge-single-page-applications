@@ -18,7 +18,7 @@ export default function Home() {
                 onClick={routeToOrder}
                 className='pizza-button'
             >
-                Order Here!
+                Pizza?
             </button>
         </div>
     )
